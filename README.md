@@ -33,9 +33,13 @@ About Us: My Account page provides account-related details to users including th
 
 
 Choice of Technology
+
 Flutter 1.17.2: We have used flutter for a lot of reasons. First is, you can make native android apps using it and have the control on each pixel on the screen. It is also very handy for handling complex user gestures on the screen. But the biggest reason for using flutter is that the application is not limited to the android platform and can be easily extended to iOS and Web via the same base code.
+
 Firebase: For handling several user information requests from authentication to data storage, we have used firebase which provides several read, write, and search queries for the different tasks for the user. 
+
 Pub Packages: There are several pub packages we have used to provide a wide range of features to users. These are a part of flutter itself and they can be integrated with the project very easily.
+
 Covid19India.org API: For calculating the safety rating, we require the coronavirus number data. Here the open-source API has proven its worth, as it provides daily updated statewide coronavirus number information in India.
 
 Device Support
