@@ -1,5 +1,5 @@
 # The Idea
-The app aims to provide support to users in the lockdown period where most of the usual activities are stopped for most of the people. During these times maintaining your habits is not an easy task. Also, a lot of people feel insecure about themselves. The app provides support to these users and gives them information about the current situation and helps them in maintaining their daily habits.
+The app aims to provide support to users in the lockdown period where most of the usual activities have stopped for most of the people. During these times maintaining your habits is not an easy task. Also, a lot of people feel insecure about themselves. The app provides support to these users and gives them information about the current situation and helps them in maintaining their daily habits. It also provides Inffecto rating which tells use how vulnerable you are to coronavirus spread.
 
 ## Basic Details
 The App has following features:
