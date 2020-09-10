@@ -39,7 +39,7 @@ For running the application in your virtual device, run the following commands f
 ```flutter run```
 
 Or you can directly install the apk from here
-[Inffecto.apk](google.com)
+[NA](google.com)
 
 Future Playstore link:
-[Inffecto Playstore](google.com)
+[NA](google.com)
