@@ -1,17 +1,7 @@
 # The Idea
-The app aims to provide support to users in the lockdown period where most of the usual activities have stopped for most of the people. During these times maintaining your habits is not an easy task. Also, a lot of people feel insecure about themselves. The app provides support to these users and gives them information about the current situation and helps them in maintaining their daily habits. It also provides Inffecto rating which tells use how vulnerable you are to coronavirus spread.
+The app aims to provide support to users in the lockdown period. During these difficult times, maintaining habits is not an easy task. A lot of people feel insecure about their health and daily routines. The app proivdes current situation and helps them in maintaining their daily habits. It also provides Inffecto rating which tells use how vulnerable the user is to coronavirus spread.
 
 ## Basic Details
-The App has following features:
-* Dashboard 
-* Account Page 
-* Emergency Contacts 
-* Safety Test 
-* Health Reminders 
-* About us 
-
-Details about each features are:
-
 #### Dashboard: 
 The dashboard provides a controlling place in the app from where the different features can be accessed.
 
@@ -27,13 +17,7 @@ A vaccine is many months away, if not longer. In the meantime, as we return to w
 #### Safety Test: 
 The test provides a relative ranking for the users by analyzing various information related to the coronavirus. The information includes current symptoms, travel history, interaction with patients, and current location.
 
-#### Settings: 
-Settings page provides user to change password of their account.
-
-#### About Us: 
-About us page provides information about developers of the app.
-
-### Choice of Technology:
+### Choice of Software:
 #### Flutter 1.17.2: 
 We have used flutter for a lot of reasons. First is, you can make native android apps using it and have the control on each pixel on the screen. It is also very handy for handling complex user gestures on the screen. But the biggest reason for using flutter is that the application is not limited to the android platform and can be easily extended to iOS and Web via the same base code. 
 #### Firebase: 
@@ -49,3 +33,13 @@ This project helped us a lot to understanding the nuances of a basic flutter app
 ## Future Expansion Plans:
 The app can be further extended to iOS and Web platforms
 Also, it can be implemented for people of any country by using the international COVID data API.
+
+## How to run on your virtual machine
+For running the application in your virtual device, run the following commands from terminal:
+```flutter run```
+
+Or you can directly install the apk from here
+[Inffecto.apk](google.com)
+
+Future Playstore link:
+[Inffecto Playstore](google.com)
