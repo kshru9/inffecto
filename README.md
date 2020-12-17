@@ -8,26 +8,26 @@
 
 
 # Inffecto : lets fight COVID
-## The Idea
-The app aims to provide support to users in the lockdown period. During these difficult times, maintaining habits is not an easy task. A lot of people feel insecure about their health and daily routines. The app proivdes current situation and helps them in maintaining their daily habits. It also provides a rating that tells how vulnerable the user is to virus spread.
+## Brief
+Inffecto aims to provide support to users in the lockdown period. During these difficult times, maintaining habits is not an easy task. A lot of people feel insecure about their health and daily routines. It proivdes current situation and helps them in maintaining their daily habits. It also provides a rating that tells how vulnerable the user is to virus spread.
 
-## Details
-#### Dashboard: 
-The dashboard provides a controlling place in the app from where the different features can be accessed.
+## Features/Components
+ - **Dashboard**: 
+The dashboard provides a controlling place from where the different features can be accessed.
 
-#### My Account: 
-My Account page provides account-related details to users including their name, email address, and profile picture. It also provides user to share our app and log out from the app.
+ - **My Account**: 
+My Account page provides account-related details to users including their name, email address, and profile picture. It also provides user to share it to friends and log out.
 
-#### Helpline Contacts: 
-We have provided a place where we have stored all the state emergency information as well as national emergency contact details. In case of emergency, the user has to only select the state, and emergency contacts can be dialed from the app.
+ - **Helpline Contacts**: 
+We have provided a place where we have stored all the state emergency information as well as national emergency contact details. In case of emergency, the user has to only select the state, and emergency contacts can be dialed and redirector to Phone app.
 
-#### Health Reminders: 
-A vaccine is many months away, if not longer. In the meantime, as we return to work, it’s good to know that if we are disciplined about using masks, we could keep ourselves & others safe. So, as a part of the safety app against COVID-19, we have made a feature that will enable you to set reminders for you to stay safe.
+ - **Health Reminders**: 
+A vaccine is many months away, if not longer. In the meantime, as we return to work, it’s good to know that if we are disciplined about using masks, we could keep ourselves & others safe. So, as a part of the safety against COVID-19, we have made a feature that will enable you to set reminders for you to stay safe.
 
-#### Safety Test: 
+ - **Safety Test**: 
 The test provides a relative ranking for the users by analyzing various information related to the coronavirus. The information includes current symptoms, travel history, interaction with patients, and current location.
 
-### Technology used:
+## Technology used:
  - [**Flutter**](https://flutter.dev/): 
 We have used flutter for a lot of reasons. First is, you can make native android apps using it and have the control on each pixel on the screen. It is also very handy for handling complex user gestures on the screen. But the biggest reason for using flutter is that the application is not limited to the android platform and can be easily extended to iOS and Web via the same base code. 
  - [**Firebase**](https://firebase.google.com/): 
@@ -38,15 +38,18 @@ There are several pub packages we have used to provide a wide range of features 
 For calculating the safety rating, we require the coronavirus number data. Here the open-source API has proven its worth, as it provides daily updated statewide coronavirus number information in India.
 
 ## Learnings
-This project helped us a lot to understanding the nuances of a basic flutter app development, how to handle backend processes, how to integrate API with an app and many other user friendly details that an app should have. It was a really nice experience to work on this app.
+ - Understanding concepts in flutter app development.
+ - Handling backend operations.
+ - Integrating APIs in dart
+ - User friendly behavior of android apps
 
 ## Future Expansion Plans:
-The app can be further extended to iOS and Web platforms.
-It can also be connected with global API and providing data to global users.
+ - Further expanded to iOS and web platforms
+ - a global API can be connected for worldwide users
 
 ## Deploying in local machine
-For running the application in your virtual device:
+For running Inffecto on your virtual device:
 ```flutter run```
 
-For testing purposes you can download the APK package from here:
-[Android APK](google.com)
+## APK package link:
+[Android APK(*Coming soon...*)](COMING_SOON)
