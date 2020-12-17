@@ -1,7 +1,6 @@
 
 [![Generic badge](https://img.shields.io/badge/made_with-flutter-skyblue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/uses-firebase-orange.svg)](https://shields.io/)
-
 [![Generic badge](https://img.shields.io/badge/Android-yes-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/iOS-no-<COLOR>.svg)](https://shields.io/)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
