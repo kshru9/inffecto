@@ -1,3 +1,13 @@
+
+[![Generic badge](https://img.shields.io/badge/made_with-flutter-skyblue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/uses-firebase-orange.svg)](https://shields.io/)
+
+[![Generic badge](https://img.shields.io/badge/Android-yes-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/iOS-no-<COLOR>.svg)](https://shields.io/)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+
+
 # Inffecto : lets fight COVID
 ## The Idea
 The app aims to provide support to users in the lockdown period. During these difficult times, maintaining habits is not an easy task. A lot of people feel insecure about their health and daily routines. The app proivdes current situation and helps them in maintaining their daily habits. It also provides a rating that tells how vulnerable the user is to virus spread.
