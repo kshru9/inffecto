@@ -9,7 +9,7 @@
 
 # Inffecto : lets fight COVID
 ## Brief
-Inffecto aims to provide support to users in the lockdown period. During these difficult times, maintaining habits is not an easy task. A lot of people feel insecure about their health and daily routines. It proivdes current situation and helps them in maintaining their daily habits. It also provides a rating that tells how vulnerable the user is to virus spread.
+Inffecto aims to provide support to users in the lockdown period. During these difficult times, maintaining habits is not an easy task. A lot of people feel insecure about their health and daily routines. It proivdes support to them and helps them in maintaining their daily habits. It also provides a rating that tells how vulnerable the user is to virus spread.
 
 ## Features/Components
  - **Dashboard**: 
