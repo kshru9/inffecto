@@ -75,53 +75,7 @@ class Helpline extends StatelessWidget {
               },
             )
           )
-          );
-          // return ExpandablePanel(
-          //   header: Text(
-          //     globalContacts[i][0],
-          //     style: TextStyle(
-          //       //color: GFColors.LIGHT, 
-          //       fontSize: 20, 
-          //       fontWeight: FontWeight.bold
-          //     ),
-          //   ),
-          //   expanded: Container(
-          //       height: (40*globalContacts[i].length).toDouble(),
-          //       child: ListView.builder(
-          //         physics: NeverScrollableScrollPhysics(),
-          //         itemCount: globalContacts[i].length-1,
-          //         itemBuilder: (BuildContext c, int ind){
-          //           return GFAccordion(
-          //             titleChild: Text(globalContacts[i][ind+1], style: TextStyle(color: Colors.black, fontSize: 20),),
-          //             content: "",
-          //             // contentChild: FlatButton(
-          //             //   child: Text(''),
-          //             //   onPressed: (){
-          //             //   _launchURL(globalContacts[i][ind+1]);
-          //             //   print("button pressed, calling some number");
-          //             // },),
-          //           );
-          //           // return Container(
-          //           //   margin: EdgeInsets.only(left: 15, right: 15),
-          //           //   child: MaterialButton(
-          //           //     onPressed: (){
-          //           //       _launchURL(globalContacts[i][ind+1]);
-          //           //       print("button pressed, calling some number");
-          //           //     },
-
-          //           //     color: Colors.transparent,
-          //           //     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
-          //           //     elevation: 10,
-          //           //     highlightColor: mytheme.secondaryHeaderColor,
-          //           //     child: Text(globalContacts[i][ind+1], style: TextStyle(color: Colors.black, fontSize: 20),),
-          //           //   ),
-          //           // );
-          //         }
-          //       ),
-          //   ),
-          //   tapHeaderToExpand: true,
-          //   hasIcon: true,
-          // );         
+          );        
         }
       )
     );

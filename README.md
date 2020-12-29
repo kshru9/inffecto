@@ -5,27 +5,41 @@
 [![Generic badge](https://img.shields.io/badge/iOS-no-<COLOR>.svg)](https://shields.io/)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-
-
 # Inffecto : lets fight COVID
 ## Brief
-Inffecto aims to provide support to users in the lockdown period. During these difficult times, maintaining habits is not an easy task. A lot of people feel insecure about their health and daily routines. It proivdes support to them and helps them in maintaining their daily habits. It also provides a rating that tells how vulnerable the user is to virus spread.
+Inffecto aims to provide support to users in the lockdown period. During these difficult times, maintaining habits is not an easy task. A lot of people feel insecure about their health and daily routines. It proivdes support to them and helps them in maintaining their daily habits. It also provides a score which tells how vulnerable they are to virus.
 
 ## Features/Components
- - **Dashboard**: 
-The dashboard provides a controlling place from where the different features can be accessed.
+### Dashboard 
+ - <img height="150" src="./__sample/dash.jpg">
+ - Central place in the application
+ - Different features can be accessed
 
- - **My Account**: 
-My Account page provides account-related details to users including their name, email address, and profile picture. It also provides user to share it to friends and log out.
+### My Account 
+ - <img height="150" src="./__sample/myacc.jpg">
+ - Account-related details of users 
+   - name, email, profile picture. 
+ - Share via link
+ - Log out
 
- - **Helpline Contacts**: 
-We have provided a place where we have stored all the state emergency information as well as national emergency contact details. In case of emergency, the user has to only select the state, and emergency contacts can be dialed and redirector to Phone app.
+### Helpline Contacts
+ - <img height="150" src="./__sample/cont.jpg">
+ - Storing emergency contacts
+ - User can select the state
+ - Redirection to Phone app
 
- - **Health Reminders**: 
-A vaccine is many months away, if not longer. In the meantime, as we return to work, it’s good to know that if we are disciplined about using masks, we could keep ourselves & others safe. So, as a part of the safety against COVID-19, we have made a feature that will enable you to set reminders for you to stay safe.
+### Health Reminders
+ - <img height="150" src="./__sample/rem.jpg">
+ - Reminders about handwash, mask
+ - Setting reminders for daily habits
 
- - **Safety Test**: 
-The test provides a relative ranking for the users by analyzing various information related to the coronavirus. The information includes current symptoms, travel history, interaction with patients, and current location.
+### Safety Test
+ - <img height="150" src="./__sample/test.jpg">   <img height="150" src="./__sample/res.jpg">
+ - Relative ranking
+   - Current symptoms
+   - Travel history
+   - Interaction with patients
+   - Current location 
 
 ## Technology used:
  - [**Flutter**](https://flutter.dev/): 
@@ -47,9 +61,7 @@ For calculating the safety rating, we require the coronavirus number data. Here 
  - Further expanded to iOS and web platforms
  - a global API can be connected for worldwide users
 
+
 ## Deploying in local machine
 For running Inffecto on your virtual device:
 ```flutter run```
-
-## APK package link:
-[Android APK(*Coming soon...*)](COMING_SOON)
