@@ -6,6 +6,8 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 # Inffecto : lets fight COVID
+<img src="./__sample/inffecto.gif" width="200"/>
+
 ## Brief
 Inffecto aims to provide support to users in the lockdown period. During these difficult times, maintaining habits is not an easy task. A lot of people feel insecure about their health and daily routines. It proivdes support to them and helps them in maintaining their daily habits. It also provides a score which tells how vulnerable they are to virus.
 
